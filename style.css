@@ -4,11 +4,10 @@ body {
 }
 
 #rusek {
-    background-color:cyan;
-    font-size: 75px;
+    background-color: cyan;
+    text-decoration: underline;
 }
 
-#img1section {}
 
 #img1 {
     margin-top: 10px;
@@ -16,24 +15,32 @@ body {
 }
 
 #h1naglowek {
-    border: 3px dotted black;
-    margin-left: 400px;
-    margin-right: 400px;
+    border: 3px double black;
+    margin-left: 170px;
+    margin-right: 170px;
     text-align: center;
+    font-size: 75px;
+    padding: 2px;
 }
 
 #like {
     width: 700px;
     position: absolute;
-    left: 200px;
+    left: 240px;
+    border: 3px dotted lightblue;
+    padding: 5px;
 }
 
-#uwielbiamy {
-    text-decoration: underline;
-}
-
-#like2{
+#like2 {
     position: absolute;
-    left: 1000px;
+    left: 1050px;
     height: 470px;
+    border: 3px dotted lightblue;
+    padding: 5px;
+}
+
+#bigos{
+    width: 100px;
+    height: 150px;
+    overflow: auto;
 }
