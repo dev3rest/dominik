@@ -7,3 +7,12 @@ body {
     background-color: red;
     font-size: 100px;
 }
+
+#img1section {
+    margin: 30px 400px 30px 400px;
+    border: 2px solid rgb(10, 34, 78);
+}
+
+#img1 {
+    margin-top: 10px;
+}
